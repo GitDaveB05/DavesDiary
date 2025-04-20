@@ -32,13 +32,17 @@ Not officially supported yet. Cross-platform version in development.
 
 📁 File Structure
 
-/Diary
-  ├── /bin            # Builds (Debug / Release)
-  ├── /obj            
-  ├── /Properties     # Forms and controls
-  ├── Program.cs      # App entry point
-  ├── Diary.cs        # Main Diary code
-  └── README.md
+    /Diary
+      ├── /bin            # Builds (Debug / Release)
+      ├──── /Debug or Release
+      ├────── net8.0-windows
+      ├──────── Diary.exe
+      ├──────── Entries
+      ├── /obj            
+      ├── /Properties     # Forms and controls
+      ├── Program.cs      # App entry point
+      ├── Diary.cs        # Main Diary code
+      └── README.md
 
 💬 Community & Support
 

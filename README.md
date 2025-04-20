@@ -1,6 +1,8 @@
 📔 Dave's Diary App
 
 Dave's Diary App is a lightweight, open-source diary application that lets you capture your thoughts and memories in a clean, calendar-driven interface. Ideal for journaling, or planning. Users can additionally write down goals for each week, month and year.
+It uses Winforms as its base for a simple and easily modifiable solution, especially in the Front-End.
+
 ✨ Features
 
     🗓️ Calendar-based navigation with daily, weekly, monthly and yearly entries
